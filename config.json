@@ -1,0 +1,52 @@
+{
+    "title": "Chutes and Ladders",
+    "media": [
+        {
+            "file": "callingnow.mp3",
+            "type": "audio",
+            "info": "",
+            "feature": true,
+            "title": "Calling Now"
+        },
+        {
+            "file": "decay.mp3",
+            "type": "audio",
+            "title": "Decay"
+        },
+        {
+            "file": "SNAKE.mp3",
+            "type": "audio",
+            "title": "Snake (Intermission)"
+        },
+        {
+            "file": "medival.mp3",
+            "type": "audio",
+            "title": "Medival"
+        },
+        {
+            "file": "timebomb.mp3",
+            "type": "audio",
+            "title": "Time Bomb"
+        }
+    ],
+    "theme": {
+        "titleStyle": "none",
+        "backgroundColor": "#F0B7B3",
+        "primaryColor": "#3D3522",
+        "primaryAltColor": "#6E9887",
+        "secondaryColor": "#B5BFA1",
+        "highlightColor": "#B5BFA1",
+        "primaryTextColor": "#0D2149",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#837b7b",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": ""
+}
