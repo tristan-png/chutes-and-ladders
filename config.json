@@ -44,7 +44,7 @@
         "layoutStyle": "vertical",
         "infoStyle": "overlaid",
         "contentWidth": "400",
-        "coverSize": "480",
+        "coverSize": "1",
         "nativePlayer": false,
         "customCSS": ""
     },
